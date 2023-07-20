@@ -3,7 +3,7 @@ public class Student1 {
     public static void main(String[] args)
     {
         String studentName = "Mohammed Abdul Mannan";
-        int studentScore = 90;
+        int studentScore = 85;
 
         char studentGrade = divisonCalculator(studentScore);
 
